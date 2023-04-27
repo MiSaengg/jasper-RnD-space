@@ -11,8 +11,11 @@ export default function Home() {
   const box1Ref = useRef(null);
   return (
     <>
-      <div style={{display: "flex", flexDirection:"column", justifyContent: "space-evenly", width: "50%"}}>
+      <div style={{display: "flex", flexDirection:"column", justifyContent: "space-evenly", width: "50%" , textAlign:"center"}}>
             <div ref={box1Ref} style={boxStyle}>hey</div>
+            <div style={{textAlign:"center"}}>
+            <button style={{width:"40px", marginLeft:"70px"}}>+</button> 
+            </div>
             <p id="elem2" style={boxStyle}>hey2</p>
             <Xarrow
                 start={box1Ref} //can be react ref
