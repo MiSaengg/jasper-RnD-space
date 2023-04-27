@@ -14,3 +14,5 @@ https://eliav2.github.io/react-xarrows/
 ![XArrow](https://user-images.githubusercontent.com/63331153/234808061-7114ff9f-cc23-4a8b-85dc-033e5e6245cc.png)
 
 ![Result](https://user-images.githubusercontent.com/63331153/234808354-7b2c8317-f91f-4a17-8e16-6b3ea06faa87.png)
+
+![horizontalResult](https://user-images.githubusercontent.com/63331153/234810934-df04e269-df7a-4df6-ade7-3bcbfdbf8b52.png)
